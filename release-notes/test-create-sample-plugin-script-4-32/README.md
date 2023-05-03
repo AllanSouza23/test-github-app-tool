@@ -1,5 +1,10 @@
 # Test-create-sample-plugin-script-4
-## 32.2.2 (May 3, 2023)
+## [32.3.0](32.3.0) (May 3, 2023)
+### Bugfixes
+
+* bugfix 32.3.0
+
+##  32.2.2 (May 3, 2023)
 ### New features
 
 * feature 32.2.2
