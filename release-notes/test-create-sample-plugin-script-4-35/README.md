@@ -1,5 +1,10 @@
 # Test-create-sample-plugin-script-4
-## [35.0.0](35.0.0.md) (May 4, 2023)
+## [35.1.0](35.1.0.md) (May 4, 2023)
+### Bugfixes
+
+* bug 35.1.0
+
+##  [35.0.0](35.0.0.md) (May 4, 2023)
 ### Breaking changes
 
 * breaking change 35.0.0
