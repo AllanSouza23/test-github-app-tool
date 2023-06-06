@@ -1,5 +1,10 @@
 # Test Script 37
-## [37.0.0](37.0.0.md) (June 6, 2023)
+## [37.1.0](37.1.0.md) (June 6, 2023)
+### Breaking changes
+
+* issue 37.1.0
+
+##  [37.0.0](37.0.0.md) (June 6, 2023)
 ### Breaking changes
 
 * breaking change 37.0.0
