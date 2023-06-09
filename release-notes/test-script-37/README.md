@@ -1,5 +1,10 @@
 # Test Script 37
-## [37.1.0](37.1.0.md) (June 9, 2023)
+## 37.0.1 (June 9, 2023)
+### Bugfixes
+
+* issue 37.0.1
+
+##  [37.1.0](37.1.0.md) (June 9, 2023)
 ### Breaking changes
 
 * issue 37.1.0
