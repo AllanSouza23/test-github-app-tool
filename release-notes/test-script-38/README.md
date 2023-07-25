@@ -27,6 +27,25 @@
 
 * feature adicional para fazer coisas adicionais
 * New Feature For 38.0.1
+
+### Improvements
+
+* improvement necessario
+
+### Bugfixes
+
+* bugfix de problema conhecido na 38.0.0
+
+
+##   38.0.1 (July 25, 2023)
+### Breaking changes
+
+* breaking-change: quebra de compatibilidade com a  versao abaixo da 37.0.2
+
+### New features
+
+* feature adicional para fazer coisas adicionais
+* New Feature For 38.0.1
  
 
 Nova feature desenvolvida para fazer x y e z
