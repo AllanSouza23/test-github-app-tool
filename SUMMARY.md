@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Release Notes](release-notes/README.md)
+  * [Test Script 37](release-notes/test-script-37/README.md)
+    * [37.2.0](release-notes/test-script-37/37.2.0.md)
   * [Test Script 38](release-notes/test-script-38/README.md)
     * [38.0.0](release-notes/test-script-38/38.0.0.md)
   * [Test Script 37](release-notes/test-create-sample-plugin-script-36/README.md)
