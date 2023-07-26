@@ -1,5 +1,20 @@
 # Test Script 38
-##  [38.1.0](38.1.0.md) (July 26, 2023)
+##  38.0.1 (July 26, 2023)
+### Improvements
+
+* improvement necessario
+
+### Details
+
+#### improvement necessario
+ 
+
+texto importante descrevendo a melhoria
+
+
+
+
+##   [38.1.0](38.1.0.md) (July 26, 2023)
 ### Breaking changes
 
 * breaking-change: quebra de compatibilidade com a  versao abaixo da 37.0.2
