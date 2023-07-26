@@ -8,6 +8,7 @@
     * [38.1.0](release-notes/test-script-38/38.1.0.md)
     * [38.1.0](release-notes/test-script-38/38.1.0.md)
     * [38.1.0](release-notes/test-script-38/38.1.0.md)
+    * [38.1.0](release-notes/test-script-38/38.1.0.md)
     * [38.0.0](release-notes/test-script-38/38.0.0.md)
     * [38.0.0](release-notes/test-script-38/38.0.0.md)
   * [Test Script 37](release-notes/test-create-sample-plugin-script-36/README.md)
