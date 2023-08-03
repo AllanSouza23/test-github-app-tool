@@ -23,6 +23,33 @@ A description of the new feature
 
 a reference to an external [site](google.com)
 
+#
+
+
+##   38.0.1 (August 3, 2023)
+### New features
+
+* New Feature For 38.0.1 ([more](#new-feature-for-3801))
+
+### Improvements
+
+* improvement 
+
+### Details
+
+#### New Feature For 38.0.1
+
+
+A description of the new feature
+
+* An Image example:
+
+
+![Screenshot_from_2023-07-06_14-40-56.png](../../.gitbook/assets/Screenshot_from_2023-07-06_14-40-56.png)
+
+
+a reference to an external [site](google.com)
+
 ### a subtitle
 
 `code line`
