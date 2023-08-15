@@ -25,7 +25,7 @@ A description of the new feature
 ![Screenshot_from_2023-07-06_14-40-56.png](../../.gitbook/assets/Screenshot_from_2023-07-06_14-40-56.png)
 
 
-a reference to an external [site](www.google.com)
+a reference to an external [site](https://www.google.com)
 
 ### a subtitle
 
