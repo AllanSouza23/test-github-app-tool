@@ -1,4 +1,8 @@
 # Test Script 38
+## 38.1.1 (September 20, 2023)
+
+* Cumulated changes from patch 38.0.1
+
 ## 38.0.1 (September 20, 2023)
 
 ### New features
